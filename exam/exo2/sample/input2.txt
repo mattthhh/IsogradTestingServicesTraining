@@ -1,0 +1,7 @@
+6
++ Scarf
++ Boots
+- T-shirt
++ Dress
+- Dress
+- Dress

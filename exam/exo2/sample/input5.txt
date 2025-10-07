@@ -1,0 +1,21 @@
+20
++ Handbag
++ Gloves
+- Gloves
++ Flip-flops
+- Flip-flops
++ Jeans
++ Underpants
+- Underpants
+- Jeans
++ Underpants
++ Perfume
++ Long coat
+- Long coat
++ Winter coat
++ Polo shirt
+- Polo shirt
+- Winter coat
+- Perfume
+- Underpants
+- Handbag

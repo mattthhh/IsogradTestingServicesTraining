@@ -1,0 +1,36 @@
+10 25
+rhubarb
+blackberry
+endive
+from
+jicama
+berry
+sorghum
+whole
+croutons
+biscuits
+from and rhubarb
+berry and biscuits
+from and rhubarb
+jicama and sorghum
+whole and jicama
+whole and jicama
+rhubarb and from
+berry and no from
+berry and endive
+rhubarb and from
+biscuits and no croutons
+endive and no from
+whole and blackberry
+croutons and berry
+rhubarb and from
+sorghum and blackberry
+from and rhubarb
+blackberry and jicama
+sorghum and jicama
+blackberry and jicama
+croutons and endive
+endive and croutons
+from and no sorghum
+jicama and blackberry
+rhubarb and from

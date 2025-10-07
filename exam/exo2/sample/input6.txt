@@ -1,0 +1,21 @@
+20
++ Handbag
+- Handbag
++ Long-sleeve top
++ T-shirt
++ Sheath dress
+- Sheath dress
++ Bikini
++ Polo shirt
++ Scarf
+- Scarf
+- Polo shirt
+- Polo shirt
++ Socks
++ T-shirt
+- T-shirt
+- Socks
+- Winter coat
+- Bikini
+- T-shirt
+- Long-sleeve top

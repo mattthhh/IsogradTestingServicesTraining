@@ -1,0 +1,9 @@
+4 4
+carrot
+leek
+bell pepper
+eggplant
+leek and carrot
+eggplant and no carrot
+bell pepper and carrot
+leek and no bell pepper

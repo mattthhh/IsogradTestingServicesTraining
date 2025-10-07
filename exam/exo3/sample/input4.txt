@@ -1,0 +1,36 @@
+10 25
+sesbania
+rice
+dill
+jellies
+bratwurst
+apple
+picnic
+pitanga
+peach
+kanpyo
+kanpyo and no bratwurst
+peach and sesbania
+kanpyo and picnic
+peach and sesbania
+sesbania and peach
+bratwurst and pitanga
+apple and picnic
+peach and jellies
+jellies and peach
+rice and bratwurst
+bratwurst and rice
+sesbania and jellies
+kanpyo and no peach
+kanpyo and dill
+sesbania and no rice
+peach and sesbania
+rice and bratwurst
+pitanga and no kanpyo
+peach and no rice
+jellies and sesbania
+jellies and peach
+sesbania and jellies
+rice and no jellies
+apple and no sesbania
+sesbania and peach

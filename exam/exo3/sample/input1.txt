@@ -1,0 +1,10 @@
+4 5
+rice
+cucumber
+cheese
+ham
+ham and cucumber
+cucumber and no rice
+rice and cheese
+rice and no ham
+rice and no cucumber
