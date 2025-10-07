@@ -1,0 +1,4 @@
+3 4
+3 3 RollerCoaster WaterSlide RollerCoaster
+5 3 WaterSlide FerrisWheel PirateShip
+2 1 FerrisWheel

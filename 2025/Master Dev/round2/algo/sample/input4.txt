@@ -1,0 +1,21 @@
+20 20
+3 3 GhostTrain RollerCoaster Museum
+27 10 Carousel Museum Zoo PirateShip GoKarts Museum Theater GoKarts Museum SwingRide
+16 10 Zoo Trampoline MiniGolf Trampoline Zoo FerrisWheel Teacups Trampoline Theater GoKarts
+12 7 CircusTent Planetarium Trampoline Teacups Museum GoKarts CircusTent
+39 4 BumperCars Zoo WaterSlide Zoo
+33 9 Planetarium RollerCoaster GhostTrain Trampoline MiniGolf FerrisWheel BumperCars CircusTent GoKarts
+25 3 BumperCars GoKarts Zoo
+39 4 Museum Planetarium LogFlume Museum
+36 8 Theater LogFlume GhostTrain Theater SwingRide LogFlume SwingRide GhostTrain
+43 10 PirateShip BumperCars GoKarts Carousel Carousel Museum SwingRide MiniGolf LogFlume Carousel
+32 5 Zoo Carousel PirateShip RollerCoaster PirateShip
+49 10 Planetarium Zoo FerrisWheel GoKarts SwingRide MiniGolf SwingRide Carousel GoKarts Aquarium
+36 4 Museum Aquarium LogFlume GhostTrain
+1 6 Zoo GoKarts BumperCars LogFlume MiniGolf Zoo
+19 7 Museum GoKarts Theater Trampoline Museum Theater Theater
+24 6 GoKarts Teacups FerrisWheel RollerCoaster RollerCoaster RollerCoaster
+49 8 Museum Museum SwingRide CircusTent HauntedHouse LogFlume PirateShip PirateShip
+27 9 LogFlume MiniGolf Planetarium Planetarium CircusTent Trampoline Museum Zoo Theater
+10 3 Teacups WaterSlide Museum
+32 10 SwingRide MiniGolf Carousel WaterSlide BumperCars RollerCoaster SwingRide Theater MiniGolf MiniGolf

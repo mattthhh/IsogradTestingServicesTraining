@@ -1,0 +1,6 @@
+5 4
+9 4 HauntedHouse HauntedHouse GoKarts HauntedHouse
+10 5 HauntedHouse GhostTrain HauntedHouse Aquarium GoKarts
+3 1 HauntedHouse
+5 2 GoKarts GhostTrain
+2 1 GoKarts

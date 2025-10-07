@@ -1,0 +1,51 @@
+50 3
+48 3 Zoo Zoo Theater
+41 9 Theater Theater Zoo SwingRide Zoo SwingRide Zoo SwingRide SwingRide
+49 7 Theater Zoo SwingRide Zoo Theater SwingRide Zoo
+15 5 Theater Theater Theater Theater SwingRide
+13 3 Zoo Zoo SwingRide
+6 6 Zoo Theater SwingRide SwingRide SwingRide SwingRide
+44 10 Theater Zoo Theater Zoo SwingRide Theater SwingRide SwingRide Zoo SwingRide
+5 3 Theater SwingRide Zoo
+43 6 SwingRide Theater Zoo Zoo Zoo SwingRide
+45 6 SwingRide SwingRide Theater SwingRide Theater Zoo
+17 3 Theater SwingRide Theater
+17 5 Zoo SwingRide Theater Zoo SwingRide
+45 4 Theater Zoo Theater Theater
+8 3 Theater Zoo SwingRide
+1 4 SwingRide Zoo Zoo SwingRide
+14 3 Zoo Zoo Theater
+24 5 SwingRide Theater SwingRide Theater Theater
+21 9 Theater SwingRide SwingRide Theater SwingRide SwingRide Zoo Theater Zoo
+50 6 SwingRide Theater SwingRide Zoo SwingRide Theater
+49 7 SwingRide Theater SwingRide Zoo Theater Zoo Zoo
+50 8 SwingRide Theater Theater SwingRide SwingRide SwingRide Theater Zoo
+37 10 Theater Theater Theater Zoo Zoo SwingRide SwingRide Theater Theater Zoo
+12 6 Zoo SwingRide Theater Theater Zoo Zoo
+43 9 Theater SwingRide Zoo Theater Theater Zoo Theater Theater Theater
+21 5 Zoo SwingRide Zoo Theater Zoo
+17 6 Zoo Theater Theater SwingRide Zoo SwingRide
+41 4 Theater Zoo SwingRide SwingRide
+15 4 Zoo Theater SwingRide Zoo
+14 6 SwingRide SwingRide Zoo Zoo Zoo Zoo
+20 9 SwingRide Zoo SwingRide Zoo Zoo Theater Theater Zoo SwingRide
+40 7 Zoo Zoo SwingRide Theater SwingRide Zoo SwingRide
+43 4 Theater Theater Zoo SwingRide
+41 10 Theater Theater SwingRide Zoo Theater Theater Zoo Zoo SwingRide Theater
+31 10 Zoo Zoo Zoo Zoo SwingRide Theater Theater SwingRide Theater Zoo
+50 7 SwingRide Theater SwingRide Zoo SwingRide Zoo SwingRide
+49 8 Theater Theater Theater Theater Theater Theater Theater SwingRide
+45 5 SwingRide SwingRide Theater Theater Zoo
+11 7 Theater Theater Zoo SwingRide Theater Theater SwingRide
+48 3 Zoo SwingRide Zoo
+26 8 Theater SwingRide Zoo Zoo Zoo SwingRide Theater Zoo
+8 9 SwingRide Theater Zoo SwingRide Theater Theater Zoo Theater Theater
+11 10 SwingRide Theater Theater SwingRide Zoo Theater Theater Zoo SwingRide Zoo
+44 7 Theater SwingRide Theater Theater SwingRide Zoo SwingRide
+50 4 Zoo Theater SwingRide Zoo
+13 9 Zoo Theater Zoo SwingRide SwingRide Theater Zoo Zoo Zoo
+8 5 Zoo SwingRide SwingRide Zoo Zoo
+14 4 Theater Zoo Zoo SwingRide
+7 9 SwingRide Zoo SwingRide Theater Theater SwingRide SwingRide SwingRide Zoo
+10 10 SwingRide Theater Zoo Theater SwingRide SwingRide Theater SwingRide SwingRide Theater
+15 5 SwingRide Zoo SwingRide Zoo Zoo

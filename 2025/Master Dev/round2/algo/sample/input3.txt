@@ -1,0 +1,11 @@
+10 12
+4 3 RollerCoaster GoKarts Carousel
+5 3 Teacups WaterSlide Theater
+2 2 LogFlume GhostTrain
+6 2 Trampoline CircusTent
+9 3 CircusTent Theater GhostTrain
+6 2 Carousel GhostTrain
+8 3 Aquarium Planetarium CircusTent
+3 3 Teacups GoKarts Theater
+8 3 CircusTent Aquarium RollerCoaster
+7 3 GoKarts Theater Planetarium
